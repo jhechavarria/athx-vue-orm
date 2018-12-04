@@ -1,0 +1,25 @@
+{
+  "name": "athx-vue-orm",
+  "version": "0.0.1",
+  "description": "ORM designed to ease database management in Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhechavarria/athx-vue-orm.git"
+  },
+  "keywords": [
+    "vue.js",
+    "orm",
+    "database",
+    "entity"
+  ],
+  "author": "Jessie Noel Hechavarria Villalon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhechavarria/athx-vue-orm/issues"
+  },
+  "homepage": "https://github.com/jhechavarria/athx-vue-orm#readme"
+}
